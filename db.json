@@ -4,64 +4,57 @@
       "id": "1",
       "nome": "Violão Elétrico Aço Takamine GN15CE NS Fosco",
       "preco": 4009.5,
-      "imagemUrl": "https://images.tcdn.com.br/img/img_prod/697931/violao_eletrico_aco_takamine_gn15ce_ns_fosco_12249_1_71db8cbe7b82f8d8b671a5bd8b31a542.jpg",
+      "imagemUrl": "https://cdn.awsli.com.br/554/554104/produto/34161600/4340-violao-eletrico-aco-takamine-gn15ce-ns-fosco-(4)-7f30872a8d.jpg",
       "categoria": "Cordas"
     },
     {
       "id": "2",
       "nome": "Ukulele Acústico Marquês Soprano Sapele UKS-237 NSAC",
       "preco": 252,
-      "imagemUrl": "https://images.tcdn.com.br/img/img_prod/697931/ukulele_acustico_marques_soprano_sapele_uks_237_nsac_11993_1_d75549bcf20ee7f70b439cbeba6d0b38.jpg",
+      "imagemUrl": "https://cdn.awsli.com.br/135x135/554/554104/produto/261548243/8579-ukulel--ac-stico-marqu-s-soprano-uks-140-mgs-ac--1--4g8mp9cxkl.jpg",
       "categoria": "Cordas"
     },
     {
       "id": "3",
       "nome": "Ukulele Acústico Shelby Soprano SU-21M STNT",
       "preco": 265,
-      "imagemUrl": "https://images.tcdn.com.br/img/img_prod/697931/ukulele_acustico_shelby_soprano_su_21m_stnt_3735_1_20201021145347.jpg",
+      "imagemUrl": "https://www.tritons.com.br/media/tmp/webp/catalog/product/cache/1/image/800x/9df78eab33525d08d6e5fb8d27136e95/s/u/su23m-ukulele-concerto-shelby-su23m-stnt-mogno-acetinado-01_1_jpg.webp",
       "categoria": "Cordas"
     },
     {
       "id": "5",
       "nome": "Saxofone Alto Afinação Mib Laqueado Michael MASX30",
       "preco": 3899,
-      "imagemUrl": "https://images.tcdn.com.br/img/img_prod/697931/saxofone_alto_em_mib_laqueado_masx30_michael_11277_1_b3dfb78e9f50684c3c3a44d18728d84a.jpg",
+      "imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkRKDaiBAxvyrYEhjA4ossxiteNUoFwjZHVg&s",
       "categoria": "Sopro"
     },
     {
       "id": "6",
       "nome": "Flauta Doce Soprano Germânica Azul Transparente Yamaha YRS20GB",
       "preco": 65,
-      "imagemUrl": "https://images.tcdn.com.br/img/img_prod/697931/flauta_doce_soprano_germanica_azul_transparente_yrs_20gb_yamaha_4437_1_20190820161421.jpg",
+      "imagemUrl": "https://cdn.awsli.com.br/600x700/2638/2638039/produto/2301473004261c1e63f.jpg",
       "categoria": "Sopro"
     },
     {
       "id": "7",
       "nome": "Bateria Acústica Premium DX722 BL Azul com Ferragens",
       "preco": 2499,
-      "imagemUrl": "https://images.tcdn.com.br/img/img_prod/697931/bateria_acustica_dx722_bl_azul_com_ferragens_premium_4893_1_20190823145417.jpg",
+      "imagemUrl": "https://http2.mlstatic.com/D_NQ_NP_857921-MLA99395898840_112025-O.webp",
       "categoria": "Percussão"
     },
     {
       "id": "8",
       "nome": "Pandeiro de Couro 10 Polegadas Tarraxa Simples Luen",
       "preco": 145,
-      "imagemUrl": "https://images.tcdn.com.br/img/img_prod/697931/pandeiro_10_luen_pele_de_couro_madeira_verniz_tarraxa_simples_10609_1_02717614e548f070b4f8fc8e12ebcf2d.jpg",
+      "imagemUrl": "https://http2.mlstatic.com/D_NQ_NP_984312-MLU71433072246_092023-O.webp",
       "categoria": "Percussão"
     },
     {
       "id": "9",
       "nome": "Teclado Arranjador Musical 61 Teclas Yamaha PSR-F52",
       "preco": 799,
-      "imagemUrl": "https://images.tcdn.com.br/img/img_prod/697931/teclado_arranjador_yamaha_psr_f52_61_teclas_11303_1_a62cb17be1f07f5979c55b6c2c2f7dfc.jpg",
+      "imagemUrl": "https://m.media-amazon.com/images/I/51GZX2FcyzL._AC_UF1000,1000_QL80_.jpg",
       "categoria": "Teclas"
-    },
-    {
-      "id": "Wpf42THIFJI",
-      "nome": "kfgjbpioyriob",
-      "preco": 2,
-      "imagemUrl": "gfbcfgb",
-      "categoria": "Cordas"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
