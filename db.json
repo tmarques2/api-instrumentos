@@ -64,6 +64,6 @@
       "email": "teste@email.com",
       "senha": "123456"
     }
-  ]
+  ],
   "$schema": "./node_modules/json-server/schema.json"
 }
