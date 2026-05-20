@@ -57,6 +57,13 @@
       "categoria": "Teclas"
     }
   ],
-  "usuarios": [],
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Usuário Teste",
+      "email": "teste@email.com",
+      "senha": "123456"
+    }
+  ]
   "$schema": "./node_modules/json-server/schema.json"
 }
